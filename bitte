@@ -1,22 +1,12 @@
-<table style="font-family: Arial, sans-serif; font-size: 14px; color: #333;">
-    <tr>
-        <td>
-            <a href="https://www.lenbachsundsoehne.com/" target="_blank">
-                <img src="https://drive.google.com/uc?export=view&id=1mzbR4zUyYIAWYXlL6gy-_pPSxRcK6dE5" 
-                     alt="Logo" style="width: 200px; height: auto; display: block;"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td style="padding-top: 5px;">
-            <a href="https://www.lenbachsundsoehne.com/" target="_blank" style="text-decoration: none; color: #0073e6;">www.lenbachsundsoehne.com</a>
-        </td>
-    </tr>
-    <tr>
-        <td style="padding-top: 10px;">
-            Mit freundlichen Grüßen,<br/>
-            <strong>Jannik Schaller</strong><br/>
-            <a href="tel:+4915167222221" style="text-decoration: none; color: #333;">0151 6722 2221</a>
-        </td>
-    </tr>
+<table style="font-family: 'Bebas Neue', Arial, sans-serif; font-size: 16px; color: #333;">
+  <tr>
+    <td>
+      <strong style="font-size: 20px;">Jannik Schaller</strong><br/>
+      Events<br/>
+      <a href="https://www.lenbachsundsoehne.com/" target="_blank" style="text-decoration: none; color: #0073e6;">lenbachsundsoehne.com</a>
+    </td>
+  </tr>
 </table>
+
+<!-- Google Font für Bebas Neue einbinden -->
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
